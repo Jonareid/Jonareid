@@ -46,14 +46,7 @@ I love to build the ⚡ website ⚡ and ⚡ webapp⚡ , I have huge attraction o
 </p>
 -->
 
-<div align=center>
-<a href="#" title="Go to Source">
-      <img height="180em" align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=JoshuaAc![image](https://user-images.githubusercontent.com/83931696/140819376-36e18bbc-f9ed-446e-a4a6-a25db97490fa.png)
-&show_icons=true&theme=react&border_color=00dafb&include_all_commits=true"/>
- </a>
-<a href="#" title="Go to Source">
-      <img height="180em" width="45%" align="right" src="http://github-readme-streak-stats.herokuapp.com?user=JoshuaAc![image](https://user-images.githubusercontent.com/83931696/140819344-e34de2c1-09d5-4d32-b7e8-526b51ffd8cf.png)
-&theme=react&border=00dafb&fire=DDB80F"/>
+
  </a>
 </div>
 
