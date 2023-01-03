@@ -52,12 +52,12 @@ I love to build the ⚡ website ⚡ and ⚡ webapp⚡ , I have huge attraction o
 
 
 <!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jgooddev![Uploading image.png…]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonareid![Uploading image.png…]()
 &layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ---
 ### Github Skyline
-<a href="https://skyline.github.com/jgooddev![image](https://user-images.githubusercontent.com/83931696/140819286-00f24047-2966-4330-9d20-bb05c2c881f2.png)
+<a href="https://skyline.github.com/Jonareid![image](https://user-images.githubusercontent.com/83931696/140819286-00f24047-2966-4330-9d20-bb05c2c881f2.png)
 /2020" title="2020 GitHub Skyline"><img src="https://skyline.github.com/USDev08/2020.png" alt="2020 GitHub Skyline" width="50%" /></a>
 -->
